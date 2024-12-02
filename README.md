@@ -22,7 +22,7 @@ A modern, AI-powered customer service chatbot built with Next.js 13+, OpenAI GPT
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ndaedxo/AI-Powered-Customer-Service-Chatbot.git
 cd aida-chatbot
 ```
 
@@ -91,6 +91,12 @@ The application includes comprehensive error handling for:
 4. Push to the branch
 5. Open a Pull Request
 
+## 👤 Author
+
+Ndaedzo Austin Mukhuba
+- GitHub: [@ndaedzo](https://github.com/ndaedxo)
+- LinkedIn: [Ndaedzo Austin Mukhuba](https://linkedin.com/in/ndaedzo-mukhuba-71759033b)
+- Email: [ndaemukhuba](ndaemukhuba@gmail.com)
 ## License
 
 MIT License - See LICENSE file for details
